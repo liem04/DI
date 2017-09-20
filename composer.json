@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php-di/php-di": "~5"
+  },
+  "autoload": {
+    "psr-4": {
+      "DI\\": "src//"
+    }
+  }
+}
